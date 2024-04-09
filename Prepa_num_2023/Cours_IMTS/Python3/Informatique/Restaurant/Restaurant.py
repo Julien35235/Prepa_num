@@ -1,0 +1,2 @@
+import RestaurantMethod
+RestaurantMethod.openfileRestaurantMethod()
