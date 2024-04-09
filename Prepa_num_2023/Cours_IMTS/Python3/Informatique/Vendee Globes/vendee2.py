@@ -1,0 +1,2 @@
+import globesmarriensmethod
+globesmarriensmethod.openfileglobesmarriensmethod()

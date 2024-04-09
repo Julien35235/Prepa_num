@@ -1,0 +1,2 @@
+import VoyagesMethod
+VoyagesMethod.openfilleVoyagesMethod()
