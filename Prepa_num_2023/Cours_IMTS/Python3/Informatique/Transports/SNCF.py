@@ -1,0 +1,2 @@
+import SNCFMethod
+SNCFMethod.openfilleSNCFMethod()

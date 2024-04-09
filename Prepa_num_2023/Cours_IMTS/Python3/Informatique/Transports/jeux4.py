@@ -1,0 +1,2 @@
+import  JeuxMethod
+JeuxMethod.openfilleJeuxMethod()

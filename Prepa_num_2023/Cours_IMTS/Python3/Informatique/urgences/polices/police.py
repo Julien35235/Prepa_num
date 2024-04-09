@@ -1,0 +1,2 @@
+import PoliceMethod
+PoliceMethod.openfilePoliceMethod()
