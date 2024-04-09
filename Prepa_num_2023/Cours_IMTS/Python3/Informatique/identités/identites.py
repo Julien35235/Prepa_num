@@ -1,0 +1,2 @@
+import IdentitesMethod
+IdentitesMethod.openFileIdentitesMethod()

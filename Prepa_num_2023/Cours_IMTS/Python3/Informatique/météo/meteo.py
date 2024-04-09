@@ -1,0 +1,2 @@
+import MeteoMethod
+MeteoMethod.openfilleMeteoMethod()

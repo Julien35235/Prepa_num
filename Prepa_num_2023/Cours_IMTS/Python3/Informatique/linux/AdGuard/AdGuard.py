@@ -1,0 +1,2 @@
+import AdGuardMethod
+AdGuardMethod.openfilleAdGuardMethod()

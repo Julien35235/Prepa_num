@@ -1,0 +1,2 @@
+import LinuxMethod
+LinuxMethod.openfilleLinuxMethod()

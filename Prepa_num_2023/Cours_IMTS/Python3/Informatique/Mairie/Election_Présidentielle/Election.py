@@ -1,0 +1,2 @@
+import ElectionMethod
+ElectionMethod.openfilleElectionMethod()
