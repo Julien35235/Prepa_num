@@ -22,3 +22,16 @@ for (let etudiant of etudiants) {
     let premierLettreMajuscule = etudiant.charAt(0).toUpperCase() + etudiant.slice(1);
     console.log(premierLettreMajuscule);
 }
+
+// Corrgé de Pierre 
+//let etudiant = ['adrien', 'hermine', 'kevin', 'antoine', 'maxime'];
+//let etudiant1=etudiant[0];
+//let prenomMajuscule = etudiant.charAt(0).toLocaleUpperCase() + etudiant.substring(1); 
+
+for(let i=0; i<etudiants.length;i++){
+    prenom=prenom.charAt(0).toLocaleUpperCase()=prenom.substring(1,prenoms.length);
+    console.log(prenom);
+}
+
+
+
