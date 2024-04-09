@@ -1,0 +1,2 @@
+import DocumentsMethod
+DocumentsMethod.openfilleDocumentsMethod()

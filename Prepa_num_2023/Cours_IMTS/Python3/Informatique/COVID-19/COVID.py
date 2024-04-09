@@ -1,0 +1,2 @@
+import COVIDMethod
+COVIDMethod.openfilleCOVIDMethod()
